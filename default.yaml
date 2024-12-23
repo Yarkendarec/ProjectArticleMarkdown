@@ -12,7 +12,7 @@ metadata:
   sectionsDepth: 3
   secHeaderDelim: ". "
   toc-title: Оглавление
-  bibliography: bibliography.bib
+  bibliography: bibliography (3).bib
   link-citations: true
   csl: gost-r-7-0-5-2008-numeric-iaa.csl
 

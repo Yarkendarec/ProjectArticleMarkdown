@@ -5,5 +5,7 @@ runpandoc:
 	--pdf-engine=xelatex \
 	-d default.yaml \
 	-F pandoc-crossref \
+	--citeproc \
 	--variable mainfont="Times New Roman" \
-	--variable geometry="margin=2cm"
+	--variable geometry="margin=2cm" \
+	--metadata-file pdf.yaml
